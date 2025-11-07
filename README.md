@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Zahraa 👋
 
-<!--
-**Zahraa-Abdalnasser/Zahraa-Abdalnasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elzahraa-abdalnasser-311946220/ "Connect on LinkedIn")
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/elzahraa-abdalnasser-311946220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 Here are some ideas to get you started:
 
