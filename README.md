@@ -1,5 +1,6 @@
 ## Hi there, I'm Zahraa 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedInProfile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elzahraa-abdalnasser-311946220/)
+<br> 
 I'm a software developer 💻
 
 <img align="right" src="ifg3.jpeg" width="200" />
