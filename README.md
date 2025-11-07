@@ -1,23 +1,8 @@
 ## Hi there, I'm Zahraa 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elzahraa-abdalnasser-311946220/ "Connect on LinkedIn")
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/elzahraa-abdalnasser-311946220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a fresh graduate from Faculty of Computers and Information, passionate about backend development and building real-world projects.
+- 🌱 I’m currently learning Node.js and JavaScript. 
+- 👯 I’m looking to collaborate on backend projects using JavaScript and Node.js.
